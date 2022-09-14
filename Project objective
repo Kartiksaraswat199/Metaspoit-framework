@@ -1,0 +1,10 @@
+This project is a backdoor Trojan Using Metasploit framework to create a platform
+remotely which allows control of the device windows operating system using the
+malicious payload. Penetration testing tools like Metasploit framework has been
+used to demonstrate a security test and to check the loopholes of devices. The main
+purpose was to study the Metasploit payloads, analyse and control the target device.
+
+This process of generating malicious payload, and performing a security test,
+collecting data from the target devices also revealed the different ways adopted by
+the cyber-criminals, black-hat hackers to gain access to their target devices like
+injecting the payload into an original application.
